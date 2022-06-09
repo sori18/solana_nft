@@ -1,0 +1,56 @@
+{
+    "name": "Style Dog #1",
+    "symbol": "SD",
+    "image": "0.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "SeGxcMt4HEHGgZUR2qzBmpLUdEHeQAwAyvHK6tzr2rD",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 500,
+    "attributes": [
+        {
+            "trait_type": "BG",
+            "value": "12"
+        },
+        {
+            "trait_type": "Mouths",
+            "value": "2"
+        },
+        {
+            "trait_type": "body",
+            "value": "5"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "4_r"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "1"
+        },
+        {
+            "trait_type": "Outfits",
+            "value": "2"
+        },
+        {
+            "trait_type": "beard and mustache",
+            "value": "Beard 1"
+        }
+    ],
+    "collection": {
+        "name": "Style Dog",
+        "family": "Dog"
+    }
+}

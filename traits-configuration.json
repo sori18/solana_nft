@@ -1,0 +1,83 @@
+{
+    "name": "Style Dog #",
+    "symbol": "SD",
+    "description": "",
+    "creators": [{"address": "SeGxcMt4HEHGgZUR2qzBmpLUdEHeQAwAyvHK6tzr2rD", "share" : 100}],
+    "dnp": {},
+    "premadeCustoms": [],
+    "collection": {"name":"Style Dog", "family": "Dog"},
+    "breakdown": {
+        "Mouths": {
+            "1.png": 9,
+            "2.png": 91
+        },
+        "Outfits": {
+            "1.png": 3,
+            "2.png": 11,
+            "3.png": 1,
+            "4.png": 4,
+            "5.png": 11,
+            "6.png": 5,
+            "7.png": 65
+        },
+        "Glasses": {
+            "1_r.png": 5,
+            "2_r.png": 3,
+            "3_r.png": 21,
+            "4_r.png": 9,
+            "5_r.png": 62
+        },
+        "beard and mustache": {
+            "1.png": 1,
+            "2.png": 11,
+            "3.png": 10,
+            "4.png": 1,
+            "5 (2).png": 6,
+            "6.png": 11,
+            "7.png": 6,
+            "8.png": 3,
+            "Beard 1.png": 51
+        },
+        "body": {
+            "1.png": 25,
+            "2.png": 4,
+            "3.png": 2,
+            "4.png": 23,
+            "5.png": 46
+        },
+        "Eyes": {
+            "1.png": 17,
+            "2.png": 1,
+            "3.png": 10,
+            "4.png": 7,
+            "5.png": 65
+        },
+        "BG": {
+            "1.png": 2,
+            "10.png": 4,
+            "11.png": 2,
+            "12.png": 7,
+            "13.png": 5,
+            "14.png": 5,
+            "2.png": 2,
+            "3 .png": 1,
+            "4.png": 3,
+            "5.png": 3,
+            "6.png": 1,
+            "7 .png": 6,
+            "8.png": 8,
+            "9.png": 51
+        }
+    },
+    "order": [
+        "BG",
+        "body",
+        "Mouths",
+        "Eyes",
+        "Outfits",
+        "Glasses",
+        "beard and mustache"
+    ],
+    "width": 3000,
+    "height": 3000
+}
